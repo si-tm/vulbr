@@ -34,3 +34,6 @@ $ python3 work/4-3.py
 ```
 
 and access to `http://localhost:8888/work/4-3.py` in VulBr.
+
+### 自分用メモ
+[doc](https://docs.google.com/document/d/1Gu3isJ4qDWHZgKPpYQl6hiUsBZtuIeyRqnYED5qCVDw/edit?usp=sharing)
